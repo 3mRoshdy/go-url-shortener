@@ -1,4 +1,5 @@
-# A simple url-shortener using golang that serves on localhost:8080
+# Go-URL-Shortener 
+A simple url shortener using golang that serves on localhost:8080
 
 ## Running the project
 For running the server (without compliling the go project)
